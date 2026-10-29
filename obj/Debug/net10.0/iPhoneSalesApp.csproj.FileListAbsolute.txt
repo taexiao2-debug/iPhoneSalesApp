@@ -1,0 +1,14 @@
+C:\Users\anjal\Downloads\C#\iPhoneSalesApp\bin\Debug\net10.0\iPhoneSalesApp.exe
+C:\Users\anjal\Downloads\C#\iPhoneSalesApp\bin\Debug\net10.0\iPhoneSalesApp.deps.json
+C:\Users\anjal\Downloads\C#\iPhoneSalesApp\bin\Debug\net10.0\iPhoneSalesApp.runtimeconfig.json
+C:\Users\anjal\Downloads\C#\iPhoneSalesApp\bin\Debug\net10.0\iPhoneSalesApp.dll
+C:\Users\anjal\Downloads\C#\iPhoneSalesApp\bin\Debug\net10.0\iPhoneSalesApp.pdb
+C:\Users\anjal\Downloads\C#\iPhoneSalesApp\obj\Debug\net10.0\iPhoneSalesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjal\Downloads\C#\iPhoneSalesApp\obj\Debug\net10.0\iPhoneSalesApp.AssemblyInfoInputs.cache
+C:\Users\anjal\Downloads\C#\iPhoneSalesApp\obj\Debug\net10.0\iPhoneSalesApp.AssemblyInfo.cs
+C:\Users\anjal\Downloads\C#\iPhoneSalesApp\obj\Debug\net10.0\iPhoneSalesApp.csproj.CoreCompileInputs.cache
+C:\Users\anjal\Downloads\C#\iPhoneSalesApp\obj\Debug\net10.0\iPhoneSalesApp.dll
+C:\Users\anjal\Downloads\C#\iPhoneSalesApp\obj\Debug\net10.0\refint\iPhoneSalesApp.dll
+C:\Users\anjal\Downloads\C#\iPhoneSalesApp\obj\Debug\net10.0\iPhoneSalesApp.pdb
+C:\Users\anjal\Downloads\C#\iPhoneSalesApp\obj\Debug\net10.0\iPhoneSalesApp.genruntimeconfig.cache
+C:\Users\anjal\Downloads\C#\iPhoneSalesApp\obj\Debug\net10.0\ref\iPhoneSalesApp.dll

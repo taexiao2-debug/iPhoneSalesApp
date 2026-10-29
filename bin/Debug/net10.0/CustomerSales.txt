@@ -1,0 +1,8 @@
+===== CUSTOMER SALE =====
+Customer Name: john
+Phone Number: 225468989
+Email Address: john@gmail.com
+Location: auck
+Selected iPhone: iPhone 17
+Date and Time: 29/10/2026 7:53:00 pm
+
